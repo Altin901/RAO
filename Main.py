@@ -21,7 +21,7 @@ from scipy.interpolate import interp1d
 
 
 
-# Eenheden: m,s,rad,
+# Units (SI): m,s,rad,
 Spectrum = "JONSWAP"	# JONSWAP or PM
 
 
